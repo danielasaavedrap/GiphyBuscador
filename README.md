@@ -1,0 +1,2 @@
+# GiphyBuscador
+Created with CodeSandbox
